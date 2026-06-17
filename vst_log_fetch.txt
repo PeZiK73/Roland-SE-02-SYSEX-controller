@@ -1,0 +1,775 @@
+Checking patch 0 in BANK_A
+  BankDir exists: YES
+  Prefix: 001_ -> Syx Files found: 1
+Checking patch 1 in BANK_A
+  BankDir exists: YES
+  Prefix: 002_ -> Syx Files found: 1
+Checking patch 2 in BANK_A
+  BankDir exists: YES
+  Prefix: 003_ -> Syx Files found: 1
+Checking patch 3 in BANK_A
+  BankDir exists: YES
+  Prefix: 004_ -> Syx Files found: 1
+Checking patch 4 in BANK_A
+  BankDir exists: YES
+  Prefix: 005_ -> Syx Files found: 1
+Checking patch 5 in BANK_A
+  BankDir exists: YES
+  Prefix: 006_ -> Syx Files found: 1
+Checking patch 6 in BANK_A
+  BankDir exists: YES
+  Prefix: 007_ -> Syx Files found: 1
+Checking patch 7 in BANK_A
+  BankDir exists: YES
+  Prefix: 008_ -> Syx Files found: 1
+Checking patch 8 in BANK_A
+  BankDir exists: YES
+  Prefix: 009_ -> Syx Files found: 1
+Checking patch 9 in BANK_A
+  BankDir exists: YES
+  Prefix: 010_ -> Syx Files found: 1
+Checking patch 10 in BANK_A
+  BankDir exists: YES
+  Prefix: 011_ -> Syx Files found: 1
+Checking patch 11 in BANK_A
+  BankDir exists: YES
+  Prefix: 012_ -> Syx Files found: 1
+Checking patch 12 in BANK_A
+  BankDir exists: YES
+  Prefix: 013_ -> Syx Files found: 1
+Checking patch 13 in BANK_A
+  BankDir exists: YES
+  Prefix: 014_ -> Syx Files found: 1
+Checking patch 14 in BANK_A
+  BankDir exists: YES
+  Prefix: 015_ -> Syx Files found: 1
+Checking patch 15 in BANK_A
+  BankDir exists: YES
+  Prefix: 016_ -> Syx Files found: 1
+Checking patch 16 in BANK_A
+  BankDir exists: YES
+  Prefix: 017_ -> Syx Files found: 1
+Checking patch 17 in BANK_A
+  BankDir exists: YES
+  Prefix: 018_ -> Syx Files found: 1
+Checking patch 18 in BANK_A
+  BankDir exists: YES
+  Prefix: 019_ -> Syx Files found: 1
+Checking patch 19 in BANK_A
+  BankDir exists: YES
+  Prefix: 020_ -> Syx Files found: 1
+Checking patch 20 in BANK_A
+  BankDir exists: YES
+  Prefix: 021_ -> Syx Files found: 1
+Checking patch 21 in BANK_A
+  BankDir exists: YES
+  Prefix: 022_ -> Syx Files found: 1
+Checking patch 22 in BANK_A
+  BankDir exists: YES
+  Prefix: 023_ -> Syx Files found: 1
+Checking patch 23 in BANK_A
+  BankDir exists: YES
+  Prefix: 024_ -> Syx Files found: 1
+Checking patch 24 in BANK_A
+  BankDir exists: YES
+  Prefix: 025_ -> Syx Files found: 1
+Checking patch 25 in BANK_A
+  BankDir exists: YES
+  Prefix: 026_ -> Syx Files found: 1
+Checking patch 26 in BANK_A
+  BankDir exists: YES
+  Prefix: 027_ -> Syx Files found: 1
+Checking patch 27 in BANK_A
+  BankDir exists: YES
+  Prefix: 028_ -> Syx Files found: 1
+Checking patch 28 in BANK_A
+  BankDir exists: YES
+  Prefix: 029_ -> Syx Files found: 1
+Checking patch 29 in BANK_A
+  BankDir exists: YES
+  Prefix: 030_ -> Syx Files found: 1
+Checking patch 30 in BANK_A
+  BankDir exists: YES
+  Prefix: 031_ -> Syx Files found: 1
+Checking patch 31 in BANK_A
+  BankDir exists: YES
+  Prefix: 032_ -> Syx Files found: 1
+Checking patch 32 in BANK_A
+  BankDir exists: YES
+  Prefix: 033_ -> Syx Files found: 1
+Checking patch 33 in BANK_A
+  BankDir exists: YES
+  Prefix: 034_ -> Syx Files found: 1
+Checking patch 34 in BANK_A
+  BankDir exists: YES
+  Prefix: 035_ -> Syx Files found: 1
+Checking patch 35 in BANK_A
+  BankDir exists: YES
+  Prefix: 036_ -> Syx Files found: 1
+Checking patch 36 in BANK_A
+  BankDir exists: YES
+  Prefix: 037_ -> Syx Files found: 1
+Checking patch 37 in BANK_A
+  BankDir exists: YES
+  Prefix: 038_ -> Syx Files found: 1
+Checking patch 38 in BANK_A
+  BankDir exists: YES
+  Prefix: 039_ -> Syx Files found: 1
+Checking patch 39 in BANK_A
+  BankDir exists: YES
+  Prefix: 040_ -> Syx Files found: 1
+Checking patch 40 in BANK_A
+  BankDir exists: YES
+  Prefix: 041_ -> Syx Files found: 1
+Checking patch 41 in BANK_A
+  BankDir exists: YES
+  Prefix: 042_ -> Syx Files found: 1
+Checking patch 42 in BANK_A
+  BankDir exists: YES
+  Prefix: 043_ -> Syx Files found: 1
+Checking patch 43 in BANK_A
+  BankDir exists: YES
+  Prefix: 044_ -> Syx Files found: 1
+Checking patch 44 in BANK_A
+  BankDir exists: YES
+  Prefix: 045_ -> Syx Files found: 1
+Checking patch 45 in BANK_A
+  BankDir exists: YES
+  Prefix: 046_ -> Syx Files found: 1
+Checking patch 46 in BANK_A
+  BankDir exists: YES
+  Prefix: 047_ -> Syx Files found: 1
+Checking patch 47 in BANK_A
+  BankDir exists: YES
+  Prefix: 048_ -> Syx Files found: 1
+Checking patch 48 in BANK_A
+  BankDir exists: YES
+  Prefix: 049_ -> Syx Files found: 1
+Checking patch 49 in BANK_A
+  BankDir exists: YES
+  Prefix: 050_ -> Syx Files found: 1
+Checking patch 50 in BANK_A
+  BankDir exists: YES
+  Prefix: 051_ -> Syx Files found: 1
+Checking patch 51 in BANK_A
+  BankDir exists: YES
+  Prefix: 052_ -> Syx Files found: 1
+Checking patch 52 in BANK_A
+  BankDir exists: YES
+  Prefix: 053_ -> Syx Files found: 1
+Checking patch 53 in BANK_A
+  BankDir exists: YES
+  Prefix: 054_ -> Syx Files found: 1
+Checking patch 54 in BANK_A
+  BankDir exists: YES
+  Prefix: 055_ -> Syx Files found: 0
+  Prefix: 055_ -> Prm Files found: 0
+Checking patch 55 in BANK_A
+  BankDir exists: YES
+  Prefix: 056_ -> Syx Files found: 0
+  Prefix: 056_ -> Prm Files found: 0
+Checking patch 56 in BANK_A
+  BankDir exists: YES
+  Prefix: 057_ -> Syx Files found: 0
+  Prefix: 057_ -> Prm Files found: 0
+Checking patch 57 in BANK_A
+  BankDir exists: YES
+  Prefix: 058_ -> Syx Files found: 0
+  Prefix: 058_ -> Prm Files found: 0
+Checking patch 58 in BANK_A
+  BankDir exists: YES
+  Prefix: 059_ -> Syx Files found: 0
+  Prefix: 059_ -> Prm Files found: 0
+Checking patch 59 in BANK_A
+  BankDir exists: YES
+  Prefix: 060_ -> Syx Files found: 0
+  Prefix: 060_ -> Prm Files found: 0
+Checking patch 60 in BANK_A
+  BankDir exists: YES
+  Prefix: 061_ -> Syx Files found: 0
+  Prefix: 061_ -> Prm Files found: 0
+Checking patch 61 in BANK_A
+  BankDir exists: YES
+  Prefix: 062_ -> Syx Files found: 0
+  Prefix: 062_ -> Prm Files found: 0
+Checking patch 62 in BANK_A
+  BankDir exists: YES
+  Prefix: 063_ -> Syx Files found: 0
+  Prefix: 063_ -> Prm Files found: 0
+Checking patch 63 in BANK_A
+  BankDir exists: YES
+  Prefix: 064_ -> Syx Files found: 0
+  Prefix: 064_ -> Prm Files found: 0
+Checking patch 64 in BANK_A
+  BankDir exists: YES
+  Prefix: 065_ -> Syx Files found: 0
+  Prefix: 065_ -> Prm Files found: 0
+Checking patch 65 in BANK_A
+  BankDir exists: YES
+  Prefix: 066_ -> Syx Files found: 0
+  Prefix: 066_ -> Prm Files found: 0
+Checking patch 66 in BANK_A
+  BankDir exists: YES
+  Prefix: 067_ -> Syx Files found: 0
+  Prefix: 067_ -> Prm Files found: 0
+Checking patch 67 in BANK_A
+  BankDir exists: YES
+  Prefix: 068_ -> Syx Files found: 0
+  Prefix: 068_ -> Prm Files found: 0
+Checking patch 68 in BANK_A
+  BankDir exists: YES
+  Prefix: 069_ -> Syx Files found: 0
+  Prefix: 069_ -> Prm Files found: 0
+Checking patch 69 in BANK_A
+  BankDir exists: YES
+  Prefix: 070_ -> Syx Files found: 0
+  Prefix: 070_ -> Prm Files found: 0
+Checking patch 70 in BANK_A
+  BankDir exists: YES
+  Prefix: 071_ -> Syx Files found: 0
+  Prefix: 071_ -> Prm Files found: 0
+Checking patch 71 in BANK_A
+  BankDir exists: YES
+  Prefix: 072_ -> Syx Files found: 0
+  Prefix: 072_ -> Prm Files found: 0
+Checking patch 72 in BANK_A
+  BankDir exists: YES
+  Prefix: 073_ -> Syx Files found: 0
+  Prefix: 073_ -> Prm Files found: 0
+Checking patch 73 in BANK_A
+  BankDir exists: YES
+  Prefix: 074_ -> Syx Files found: 0
+  Prefix: 074_ -> Prm Files found: 0
+Checking patch 74 in BANK_A
+  BankDir exists: YES
+  Prefix: 075_ -> Syx Files found: 0
+  Prefix: 075_ -> Prm Files found: 0
+Checking patch 75 in BANK_A
+  BankDir exists: YES
+  Prefix: 076_ -> Syx Files found: 0
+  Prefix: 076_ -> Prm Files found: 0
+Checking patch 76 in BANK_A
+  BankDir exists: YES
+  Prefix: 077_ -> Syx Files found: 0
+  Prefix: 077_ -> Prm Files found: 0
+Checking patch 77 in BANK_A
+  BankDir exists: YES
+  Prefix: 078_ -> Syx Files found: 0
+  Prefix: 078_ -> Prm Files found: 0
+Checking patch 78 in BANK_A
+  BankDir exists: YES
+  Prefix: 079_ -> Syx Files found: 0
+  Prefix: 079_ -> Prm Files found: 0
+Checking patch 79 in BANK_A
+  BankDir exists: YES
+  Prefix: 080_ -> Syx Files found: 0
+  Prefix: 080_ -> Prm Files found: 0
+Checking patch 80 in BANK_A
+  BankDir exists: YES
+  Prefix: 081_ -> Syx Files found: 0
+  Prefix: 081_ -> Prm Files found: 0
+Checking patch 81 in BANK_A
+  BankDir exists: YES
+  Prefix: 082_ -> Syx Files found: 0
+  Prefix: 082_ -> Prm Files found: 0
+Checking patch 82 in BANK_A
+  BankDir exists: YES
+  Prefix: 083_ -> Syx Files found: 0
+  Prefix: 083_ -> Prm Files found: 0
+Checking patch 83 in BANK_A
+  BankDir exists: YES
+  Prefix: 084_ -> Syx Files found: 0
+  Prefix: 084_ -> Prm Files found: 0
+Checking patch 84 in BANK_A
+  BankDir exists: YES
+  Prefix: 085_ -> Syx Files found: 0
+  Prefix: 085_ -> Prm Files found: 0
+Checking patch 85 in BANK_A
+  BankDir exists: YES
+  Prefix: 086_ -> Syx Files found: 0
+  Prefix: 086_ -> Prm Files found: 0
+Checking patch 86 in BANK_A
+  BankDir exists: YES
+  Prefix: 087_ -> Syx Files found: 0
+  Prefix: 087_ -> Prm Files found: 0
+Checking patch 0 in BANK_A
+  BankDir exists: YES
+  Prefix: 001_ -> Syx Files found: 1
+Checking patch 1 in BANK_A
+  BankDir exists: YES
+  Prefix: 002_ -> Syx Files found: 1
+Checking patch 2 in BANK_A
+  BankDir exists: YES
+  Prefix: 003_ -> Syx Files found: 1
+Checking patch 3 in BANK_A
+  BankDir exists: YES
+  Prefix: 004_ -> Syx Files found: 1
+Checking patch 4 in BANK_A
+  BankDir exists: YES
+  Prefix: 005_ -> Syx Files found: 1
+Checking patch 5 in BANK_A
+  BankDir exists: YES
+  Prefix: 006_ -> Syx Files found: 1
+Checking patch 6 in BANK_A
+  BankDir exists: YES
+  Prefix: 007_ -> Syx Files found: 1
+Checking patch 7 in BANK_A
+  BankDir exists: YES
+  Prefix: 008_ -> Syx Files found: 1
+Checking patch 8 in BANK_A
+  BankDir exists: YES
+  Prefix: 009_ -> Syx Files found: 1
+Checking patch 9 in BANK_A
+  BankDir exists: YES
+  Prefix: 010_ -> Syx Files found: 1
+Checking patch 10 in BANK_A
+  BankDir exists: YES
+  Prefix: 011_ -> Syx Files found: 1
+Checking patch 11 in BANK_A
+  BankDir exists: YES
+  Prefix: 012_ -> Syx Files found: 1
+Checking patch 12 in BANK_A
+  BankDir exists: YES
+  Prefix: 013_ -> Syx Files found: 1
+Checking patch 13 in BANK_A
+  BankDir exists: YES
+  Prefix: 014_ -> Syx Files found: 1
+Checking patch 14 in BANK_A
+  BankDir exists: YES
+  Prefix: 015_ -> Syx Files found: 1
+Checking patch 15 in BANK_A
+  BankDir exists: YES
+  Prefix: 016_ -> Syx Files found: 1
+Checking patch 16 in BANK_A
+  BankDir exists: YES
+  Prefix: 017_ -> Syx Files found: 1
+Checking patch 17 in BANK_A
+  BankDir exists: YES
+  Prefix: 018_ -> Syx Files found: 1
+Checking patch 18 in BANK_A
+  BankDir exists: YES
+  Prefix: 019_ -> Syx Files found: 1
+Checking patch 19 in BANK_A
+  BankDir exists: YES
+  Prefix: 020_ -> Syx Files found: 1
+Checking patch 20 in BANK_A
+  BankDir exists: YES
+  Prefix: 021_ -> Syx Files found: 1
+Checking patch 21 in BANK_A
+  BankDir exists: YES
+  Prefix: 022_ -> Syx Files found: 1
+Checking patch 22 in BANK_A
+  BankDir exists: YES
+  Prefix: 023_ -> Syx Files found: 1
+Checking patch 23 in BANK_A
+  BankDir exists: YES
+  Prefix: 024_ -> Syx Files found: 1
+Checking patch 24 in BANK_A
+  BankDir exists: YES
+  Prefix: 025_ -> Syx Files found: 1
+Checking patch 25 in BANK_A
+  BankDir exists: YES
+  Prefix: 026_ -> Syx Files found: 1
+Checking patch 26 in BANK_A
+  BankDir exists: YES
+  Prefix: 027_ -> Syx Files found: 1
+Checking patch 27 in BANK_A
+  BankDir exists: YES
+  Prefix: 028_ -> Syx Files found: 1
+Checking patch 28 in BANK_A
+  BankDir exists: YES
+  Prefix: 029_ -> Syx Files found: 1
+Checking patch 29 in BANK_A
+  BankDir exists: YES
+  Prefix: 030_ -> Syx Files found: 1
+Checking patch 30 in BANK_A
+  BankDir exists: YES
+  Prefix: 031_ -> Syx Files found: 1
+Checking patch 31 in BANK_A
+  BankDir exists: YES
+  Prefix: 032_ -> Syx Files found: 1
+Checking patch 32 in BANK_A
+  BankDir exists: YES
+  Prefix: 033_ -> Syx Files found: 1
+Checking patch 33 in BANK_A
+  BankDir exists: YES
+  Prefix: 034_ -> Syx Files found: 1
+Checking patch 34 in BANK_A
+  BankDir exists: YES
+  Prefix: 035_ -> Syx Files found: 1
+Checking patch 35 in BANK_A
+  BankDir exists: YES
+  Prefix: 036_ -> Syx Files found: 1
+Checking patch 36 in BANK_A
+  BankDir exists: YES
+  Prefix: 037_ -> Syx Files found: 1
+Checking patch 37 in BANK_A
+  BankDir exists: YES
+  Prefix: 038_ -> Syx Files found: 1
+Checking patch 38 in BANK_A
+  BankDir exists: YES
+  Prefix: 039_ -> Syx Files found: 1
+Checking patch 39 in BANK_A
+  BankDir exists: YES
+  Prefix: 040_ -> Syx Files found: 1
+Checking patch 40 in BANK_A
+  BankDir exists: YES
+  Prefix: 041_ -> Syx Files found: 1
+Checking patch 41 in BANK_A
+  BankDir exists: YES
+  Prefix: 042_ -> Syx Files found: 1
+Checking patch 42 in BANK_A
+  BankDir exists: YES
+  Prefix: 043_ -> Syx Files found: 1
+Checking patch 43 in BANK_A
+  BankDir exists: YES
+  Prefix: 044_ -> Syx Files found: 1
+Checking patch 44 in BANK_A
+  BankDir exists: YES
+  Prefix: 045_ -> Syx Files found: 1
+Checking patch 45 in BANK_A
+  BankDir exists: YES
+  Prefix: 046_ -> Syx Files found: 1
+Checking patch 46 in BANK_A
+  BankDir exists: YES
+  Prefix: 047_ -> Syx Files found: 1
+Checking patch 47 in BANK_A
+  BankDir exists: YES
+  Prefix: 048_ -> Syx Files found: 1
+Checking patch 48 in BANK_A
+  BankDir exists: YES
+  Prefix: 049_ -> Syx Files found: 1
+Checking patch 49 in BANK_A
+  BankDir exists: YES
+  Prefix: 050_ -> Syx Files found: 1
+Checking patch 50 in BANK_A
+  BankDir exists: YES
+  Prefix: 051_ -> Syx Files found: 1
+Checking patch 51 in BANK_A
+  BankDir exists: YES
+  Prefix: 052_ -> Syx Files found: 1
+Checking patch 52 in BANK_A
+  BankDir exists: YES
+  Prefix: 053_ -> Syx Files found: 1
+Checking patch 53 in BANK_A
+  BankDir exists: YES
+  Prefix: 054_ -> Syx Files found: 1
+Checking patch 54 in BANK_A
+  BankDir exists: YES
+  Prefix: 055_ -> Syx Files found: 1
+Checking patch 55 in BANK_A
+  BankDir exists: YES
+  Prefix: 056_ -> Syx Files found: 1
+Checking patch 56 in BANK_A
+  BankDir exists: YES
+  Prefix: 057_ -> Syx Files found: 1
+Checking patch 57 in BANK_A
+  BankDir exists: YES
+  Prefix: 058_ -> Syx Files found: 1
+Checking patch 58 in BANK_A
+  BankDir exists: YES
+  Prefix: 059_ -> Syx Files found: 1
+Checking patch 59 in BANK_A
+  BankDir exists: YES
+  Prefix: 060_ -> Syx Files found: 1
+Checking patch 60 in BANK_A
+  BankDir exists: YES
+  Prefix: 061_ -> Syx Files found: 1
+Checking patch 61 in BANK_A
+  BankDir exists: YES
+  Prefix: 062_ -> Syx Files found: 1
+Checking patch 62 in BANK_A
+  BankDir exists: YES
+  Prefix: 063_ -> Syx Files found: 1
+Checking patch 63 in BANK_A
+  BankDir exists: YES
+  Prefix: 064_ -> Syx Files found: 1
+Checking patch 64 in BANK_A
+  BankDir exists: YES
+  Prefix: 065_ -> Syx Files found: 1
+Checking patch 65 in BANK_A
+  BankDir exists: YES
+  Prefix: 066_ -> Syx Files found: 1
+Checking patch 66 in BANK_A
+  BankDir exists: YES
+  Prefix: 067_ -> Syx Files found: 1
+Checking patch 67 in BANK_A
+  BankDir exists: YES
+  Prefix: 068_ -> Syx Files found: 1
+Checking patch 68 in BANK_A
+  BankDir exists: YES
+  Prefix: 069_ -> Syx Files found: 1
+Checking patch 69 in BANK_A
+  BankDir exists: YES
+  Prefix: 070_ -> Syx Files found: 1
+Checking patch 70 in BANK_A
+  BankDir exists: YES
+  Prefix: 071_ -> Syx Files found: 1
+Checking patch 71 in BANK_A
+  BankDir exists: YES
+  Prefix: 072_ -> Syx Files found: 1
+Checking patch 72 in BANK_A
+  BankDir exists: YES
+  Prefix: 073_ -> Syx Files found: 1
+Checking patch 73 in BANK_A
+  BankDir exists: YES
+  Prefix: 074_ -> Syx Files found: 1
+Checking patch 74 in BANK_A
+  BankDir exists: YES
+  Prefix: 075_ -> Syx Files found: 1
+Checking patch 75 in BANK_A
+  BankDir exists: YES
+  Prefix: 076_ -> Syx Files found: 1
+Checking patch 76 in BANK_A
+  BankDir exists: YES
+  Prefix: 077_ -> Syx Files found: 1
+Checking patch 77 in BANK_A
+  BankDir exists: YES
+  Prefix: 078_ -> Syx Files found: 1
+Checking patch 78 in BANK_A
+  BankDir exists: YES
+  Prefix: 079_ -> Syx Files found: 1
+Checking patch 79 in BANK_A
+  BankDir exists: YES
+  Prefix: 080_ -> Syx Files found: 1
+Checking patch 80 in BANK_A
+  BankDir exists: YES
+  Prefix: 081_ -> Syx Files found: 1
+Checking patch 81 in BANK_A
+  BankDir exists: YES
+  Prefix: 082_ -> Syx Files found: 1
+Checking patch 82 in BANK_A
+  BankDir exists: YES
+  Prefix: 083_ -> Syx Files found: 1
+Checking patch 83 in BANK_A
+  BankDir exists: YES
+  Prefix: 084_ -> Syx Files found: 1
+Checking patch 84 in BANK_A
+  BankDir exists: YES
+  Prefix: 085_ -> Syx Files found: 1
+Checking patch 85 in BANK_A
+  BankDir exists: YES
+  Prefix: 086_ -> Syx Files found: 1
+Checking patch 86 in BANK_A
+  BankDir exists: YES
+  Prefix: 087_ -> Syx Files found: 0
+  Prefix: 087_ -> Prm Files found: 0
+Checking patch 87 in BANK_A
+  BankDir exists: YES
+  Prefix: 088_ -> Syx Files found: 0
+  Prefix: 088_ -> Prm Files found: 0
+Checking patch 88 in BANK_A
+  BankDir exists: YES
+  Prefix: 089_ -> Syx Files found: 0
+  Prefix: 089_ -> Prm Files found: 0
+Checking patch 89 in BANK_A
+  BankDir exists: YES
+  Prefix: 090_ -> Syx Files found: 0
+  Prefix: 090_ -> Prm Files found: 0
+Checking patch 90 in BANK_A
+  BankDir exists: YES
+  Prefix: 091_ -> Syx Files found: 0
+  Prefix: 091_ -> Prm Files found: 0
+Checking patch 91 in BANK_A
+  BankDir exists: YES
+  Prefix: 092_ -> Syx Files found: 0
+  Prefix: 092_ -> Prm Files found: 0
+Checking patch 92 in BANK_A
+  BankDir exists: YES
+  Prefix: 093_ -> Syx Files found: 0
+  Prefix: 093_ -> Prm Files found: 0
+Checking patch 93 in BANK_A
+  BankDir exists: YES
+  Prefix: 094_ -> Syx Files found: 0
+  Prefix: 094_ -> Prm Files found: 0
+Checking patch 94 in BANK_A
+  BankDir exists: YES
+  Prefix: 095_ -> Syx Files found: 0
+  Prefix: 095_ -> Prm Files found: 0
+Checking patch 95 in BANK_A
+  BankDir exists: YES
+  Prefix: 096_ -> Syx Files found: 0
+  Prefix: 096_ -> Prm Files found: 0
+Checking patch 96 in BANK_A
+  BankDir exists: YES
+  Prefix: 097_ -> Syx Files found: 0
+  Prefix: 097_ -> Prm Files found: 0
+Checking patch 97 in BANK_A
+  BankDir exists: YES
+  Prefix: 098_ -> Syx Files found: 0
+  Prefix: 098_ -> Prm Files found: 0
+Checking patch 98 in BANK_A
+  BankDir exists: YES
+  Prefix: 099_ -> Syx Files found: 0
+  Prefix: 099_ -> Prm Files found: 0
+Checking patch 99 in BANK_A
+  BankDir exists: YES
+  Prefix: 100_ -> Syx Files found: 0
+  Prefix: 100_ -> Prm Files found: 0
+Checking patch 100 in BANK_A
+  BankDir exists: YES
+  Prefix: 101_ -> Syx Files found: 0
+  Prefix: 101_ -> Prm Files found: 0
+Checking patch 101 in BANK_A
+  BankDir exists: YES
+  Prefix: 102_ -> Syx Files found: 0
+  Prefix: 102_ -> Prm Files found: 0
+Checking patch 102 in BANK_A
+  BankDir exists: YES
+  Prefix: 103_ -> Syx Files found: 0
+  Prefix: 103_ -> Prm Files found: 0
+Checking patch 103 in BANK_A
+  BankDir exists: YES
+  Prefix: 104_ -> Syx Files found: 0
+  Prefix: 104_ -> Prm Files found: 0
+Checking patch 104 in BANK_A
+  BankDir exists: YES
+  Prefix: 105_ -> Syx Files found: 0
+  Prefix: 105_ -> Prm Files found: 0
+Checking patch 105 in BANK_A
+  BankDir exists: YES
+  Prefix: 106_ -> Syx Files found: 0
+  Prefix: 106_ -> Prm Files found: 0
+Checking patch 106 in BANK_A
+  BankDir exists: YES
+  Prefix: 107_ -> Syx Files found: 0
+  Prefix: 107_ -> Prm Files found: 0
+Checking patch 107 in BANK_A
+  BankDir exists: YES
+  Prefix: 108_ -> Syx Files found: 0
+  Prefix: 108_ -> Prm Files found: 0
+Checking patch 108 in BANK_A
+  BankDir exists: YES
+  Prefix: 109_ -> Syx Files found: 0
+  Prefix: 109_ -> Prm Files found: 0
+Checking patch 109 in BANK_A
+  BankDir exists: YES
+  Prefix: 110_ -> Syx Files found: 0
+  Prefix: 110_ -> Prm Files found: 0
+Checking patch 110 in BANK_A
+  BankDir exists: YES
+  Prefix: 111_ -> Syx Files found: 0
+  Prefix: 111_ -> Prm Files found: 0
+Checking patch 111 in BANK_A
+  BankDir exists: YES
+  Prefix: 112_ -> Syx Files found: 0
+  Prefix: 112_ -> Prm Files found: 0
+Checking patch 112 in BANK_A
+  BankDir exists: YES
+  Prefix: 113_ -> Syx Files found: 0
+  Prefix: 113_ -> Prm Files found: 0
+Checking patch 113 in BANK_A
+  BankDir exists: YES
+  Prefix: 114_ -> Syx Files found: 0
+  Prefix: 114_ -> Prm Files found: 0
+Checking patch 114 in BANK_A
+  BankDir exists: YES
+  Prefix: 115_ -> Syx Files found: 0
+  Prefix: 115_ -> Prm Files found: 0
+Checking patch 115 in BANK_A
+  BankDir exists: YES
+  Prefix: 116_ -> Syx Files found: 0
+  Prefix: 116_ -> Prm Files found: 0
+Checking patch 116 in BANK_A
+  BankDir exists: YES
+  Prefix: 117_ -> Syx Files found: 0
+  Prefix: 117_ -> Prm Files found: 0
+Checking patch 117 in BANK_A
+  BankDir exists: YES
+  Prefix: 118_ -> Syx Files found: 0
+  Prefix: 118_ -> Prm Files found: 0
+Checking patch 118 in BANK_A
+  BankDir exists: YES
+  Prefix: 119_ -> Syx Files found: 0
+  Prefix: 119_ -> Prm Files found: 0
+Checking patch 119 in BANK_A
+  BankDir exists: YES
+  Prefix: 120_ -> Syx Files found: 0
+  Prefix: 120_ -> Prm Files found: 0
+Checking patch 120 in BANK_A
+  BankDir exists: YES
+  Prefix: 121_ -> Syx Files found: 0
+  Prefix: 121_ -> Prm Files found: 0
+Checking patch 121 in BANK_A
+  BankDir exists: YES
+  Prefix: 122_ -> Syx Files found: 0
+  Prefix: 122_ -> Prm Files found: 0
+Checking patch 122 in BANK_A
+  BankDir exists: YES
+  Prefix: 123_ -> Syx Files found: 0
+  Prefix: 123_ -> Prm Files found: 0
+Checking patch 123 in BANK_A
+  BankDir exists: YES
+  Prefix: 124_ -> Syx Files found: 0
+  Prefix: 124_ -> Prm Files found: 0
+Checking patch 124 in BANK_A
+  BankDir exists: YES
+  Prefix: 125_ -> Syx Files found: 0
+  Prefix: 125_ -> Prm Files found: 0
+Checking patch 125 in BANK_A
+  BankDir exists: YES
+  Prefix: 126_ -> Syx Files found: 0
+  Prefix: 126_ -> Prm Files found: 0
+Checking patch 126 in BANK_A
+  BankDir exists: YES
+  Prefix: 127_ -> Syx Files found: 0
+  Prefix: 127_ -> Prm Files found: 0
+Checking patch 127 in BANK_A
+  BankDir exists: YES
+  Prefix: 128_ -> Syx Files found: 0
+  Prefix: 128_ -> Prm Files found: 0
+Checking patch 0 in BANK_B
+  BankDir exists: YES
+  Prefix: 001_ -> Syx Files found: 1
+Checking patch 1 in BANK_B
+  BankDir exists: YES
+  Prefix: 002_ -> Syx Files found: 1
+Checking patch 2 in BANK_B
+  BankDir exists: YES
+  Prefix: 003_ -> Syx Files found: 1
+Checking patch 3 in BANK_B
+  BankDir exists: YES
+  Prefix: 004_ -> Syx Files found: 1
+Checking patch 4 in BANK_B
+  BankDir exists: YES
+  Prefix: 005_ -> Syx Files found: 1
+Checking patch 5 in BANK_B
+  BankDir exists: YES
+  Prefix: 006_ -> Syx Files found: 1
+Checking patch 6 in BANK_B
+  BankDir exists: YES
+  Prefix: 007_ -> Syx Files found: 1
+Checking patch 7 in BANK_B
+  BankDir exists: YES
+  Prefix: 008_ -> Syx Files found: 1
+Checking patch 8 in BANK_B
+  BankDir exists: YES
+  Prefix: 009_ -> Syx Files found: 1
+Checking patch 9 in BANK_B
+  BankDir exists: YES
+  Prefix: 010_ -> Syx Files found: 0
+  Prefix: 010_ -> Prm Files found: 0
+Checking patch 10 in BANK_B
+  BankDir exists: YES
+  Prefix: 011_ -> Syx Files found: 0
+  Prefix: 011_ -> Prm Files found: 0
+Checking patch 11 in BANK_B
+  BankDir exists: YES
+  Prefix: 012_ -> Syx Files found: 0
+  Prefix: 012_ -> Prm Files found: 0
+Checking patch 12 in BANK_B
+  BankDir exists: YES
+  Prefix: 013_ -> Syx Files found: 0
+  Prefix: 013_ -> Prm Files found: 0
+Checking patch 13 in BANK_B
+  BankDir exists: YES
+  Prefix: 014_ -> Syx Files found: 0
+  Prefix: 014_ -> Prm Files found: 0
+Checking patch 14 in BANK_B
+  BankDir exists: YES
+  Prefix: 015_ -> Syx Files found: 0
+  Prefix: 015_ -> Prm Files found: 0
+Checking patch 15 in BANK_B
+  BankDir exists: YES
+  Prefix: 016_ -> Syx Files found: 0
+  Prefix: 016_ -> Prm Files found: 0

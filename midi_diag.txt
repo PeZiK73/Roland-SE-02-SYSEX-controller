@@ -1,0 +1,922 @@
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=1 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=1 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=1 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=1 MSB(CC0)=2 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=2 MSB(CC0)=2 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=2 preset=2 MSB(CC0)=3 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=1 MSB(CC0)=1 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=2 MSB(CC0)=1 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=3 MSB(CC0)=1 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=4 MSB(CC0)=1 LSB(CC32)=0 PC=3 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=2 preset=4 MSB(CC0)=2 LSB(CC32)=0 PC=3 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=2 preset=3 MSB(CC0)=2 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=2 preset=2 MSB(CC0)=2 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=2 preset=1 MSB(CC0)=2 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=3 preset=1 MSB(CC0)=3 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=3 preset=2 MSB(CC0)=3 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=3 preset=3 MSB(CC0)=3 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=4 preset=3 MSB(CC0)=4 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=4 preset=2 MSB(CC0)=4 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=4 preset=1 MSB(CC0)=4 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 3 0 5  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=11 13 6 9  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=15 15 6 9  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 1 126 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=06 1 127 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=06 1 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=127 (User Patch 128)
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=1 MSB(CC0)=1 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=63 (User Patch 64)
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=63 (User Patch 64)
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=63 (User Patch 64)
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=63 (User Patch 64)
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 3 0 5  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=11 13 6 9  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=63 (User Patch 64)
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=15 15 6 9  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=63 (User Patch 64)
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=15 15 6 9  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=06 0 126 0 bufSize=240 first4bytes=0 2 0 8  hwOut=OPEN
+DT1 SEND: addr=06 0 126 64 bufSize=240 first4bytes=0 2 0 3  hwOut=OPEN
+DT1 SEND: addr=06 0 127 0 bufSize=240 first4bytes=11 1 5 13  hwOut=OPEN
+DT1 SEND: addr=06 0 127 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 COMPLETE - Sending PC: CC0=3 CC32=0 PC=63 (User Patch 64)
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 8  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 2 0 3  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=11 1 5 13  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 6 9  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 3 0 5  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=11 13 6 9  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 8  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 1 64 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 5  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 13 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 5 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 12 4 12  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 6 4 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 1 4  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=7 7 7 15  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 5 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=9 14 12 6  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 7 15  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 3 13  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=14 5 9 5  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 1 0 5  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=3 3 9 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 4 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=10 9 12 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 5  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=9 15 8 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 0 6  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=2 0 15 15  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 5 8 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=2 0 15 15  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=5 0 10 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 4 0 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 7 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 6  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 12 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 10 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 8 5  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 8 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 2 8  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 1 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 6 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 10 8 5  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 3 8 5  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=5 0 10 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 6 4 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 13 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=1 8 2 10  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 15 15  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=5 0 10 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=5 0 10 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 0 6 10  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 4 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=10 9 12 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=1 preset=2 MSB(CC0)=1 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=1 preset=1 MSB(CC0)=1 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=5 0 10 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=2 preset=1 MSB(CC0)=2 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=2 preset=2 MSB(CC0)=2 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=2 preset=1 MSB(CC0)=2 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 5 7 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 13 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 4 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 10 10 3  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=128 MSB(CC0)=0 LSB(CC32)=0 PC=127 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 12 0 12  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 6 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 1 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 0 6 10  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=8 5 11 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=128 MSB(CC0)=0 LSB(CC32)=0 PC=127 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 12 0 12  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=0 0 6 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=127 MSB(CC0)=0 LSB(CC32)=0 PC=126 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=2 0 15 15  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=126 MSB(CC0)=0 LSB(CC32)=0 PC=125 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 5 8 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=125 MSB(CC0)=0 LSB(CC32)=0 PC=124 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 4 14  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 5 8 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=13 0 9 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=4 MSB(CC0)=0 LSB(CC32)=0 PC=3 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 10 0  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=3 MSB(CC0)=0 LSB(CC32)=0 PC=2 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=1 MSB(CC0)=0 LSB(CC32)=0 PC=0 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 7 14  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 4  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 3 8  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 7 14  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 9 13  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 7 14  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 2 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 9 13  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+sendProgramChange: bankIndex=0 preset=2 MSB(CC0)=0 LSB(CC32)=0 PC=1 hardwareMidiOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 0 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=15 15 5 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 1  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=12 4 6 9  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 0 bufSize=240 first4bytes=0 2 0 0  hwOut=OPEN
+DT1 SEND: addr=05 0 0 64 bufSize=240 first4bytes=0 3 0 2  hwOut=OPEN
+DT1 SEND: addr=05 0 1 0 bufSize=240 first4bytes=11 10 6 14  hwOut=OPEN
+DT1 SEND: addr=05 0 1 64 bufSize=240 first4bytes=0 0 0 0  hwOut=OPEN

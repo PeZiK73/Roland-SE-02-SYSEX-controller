@@ -1,0 +1,35 @@
+# JUCE & CMake ignores
+build/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# IDE ignores
+.vs/
+.vscode/
+*.user
+*.suo
+*.ipch
+
+# Compiled binaries
+*.exe
+*.dll
+*.vst3
+*.a
+*.so
+*.dylib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Any temporary backup folders we made
+Source_Backup/
+Source_Backup_Passthrough/
