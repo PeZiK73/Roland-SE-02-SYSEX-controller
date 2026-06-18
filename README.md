@@ -18,6 +18,7 @@ More importantly, this repository serves as a **comprehensive technical whitepap
 - **SysEx Patch Fetching:** Pulls the active Temporary Patch (Edit Buffer) directly from the hardware into the plugin, automatically parsing all 120 parameters into the VST's state.
 - **Smart Categorized Randomizer:** Intelligently generates highly playable patches based on musical constraints (Bass, Lead, Pluck, Pad) rather than pure chaos.
 - **Offline Preset Browser:** Complete management of all 512 Factory and User patches directly from the plugin interface. Instantly browse, load, and recall patches without menu-diving.
+- **Custom Bank Management:** Native support for reading and writing standard `.syx` (SysEx) and `.prm` files. The "CUSTOM" section of the browser allows you to load and manage an unlimited number of your own custom patches directly from your hard drive.
 - **DAW Passthrough Mode:** Built specifically for older Windows 10 machines with single-client MIDI constraints. The plugin intelligently intercepts the DAW's generic track MIDI, processes it, and injects outgoing automated parameters back into the DAW pipeline to bypass exclusive OS port locking.
 - **Undocumented Parameters:** Full access to the Firmware v1.10 `PWM LFO RATE` and `PWM LFO DEPTH` parameters which lack CC numbers and are otherwise buried in the hardware's Setup menu.
 
