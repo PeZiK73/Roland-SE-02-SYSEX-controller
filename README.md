@@ -4,12 +4,20 @@ Welcome to the open-source SE-02 Controller! This project contains a fully funct
 
 More importantly, this repository serves as a **comprehensive technical whitepaper** documenting the SE-02's completely undocumented System Exclusive (SysEx) implementation. Roland and Studio Electronics have never released official MIDI implementation charts for patch fetching or the Setup menu parameters. Through meticulous reverse-engineering of the USB MIDI streams, we have mapped out the communication protocol so the global community can build their own librarians, editors, and controllers.
 
+<p align="center">
+  <img src="docs/SE_02_GUI.PNG" alt="SE-02 VST3 Editor GUI" width="800"/>
+</p>
+<p align="center">
+  <img src="docs/SE_02_BROWSER.PNG" alt="SE-02 VST3 Preset Browser" width="800"/>
+</p>
+
 ---
 
 ## 🎹 The Plugin Features
 - **Bi-directional Sync:** Twist a knob on the SE-02 hardware, and the VST GUI updates instantly. Twist a GUI knob, and the hardware responds.
 - **SysEx Patch Fetching:** Pulls the active Temporary Patch (Edit Buffer) directly from the hardware into the plugin, automatically parsing all 120 parameters into the VST's state.
 - **Smart Categorized Randomizer:** Intelligently generates highly playable patches based on musical constraints (Bass, Lead, Pluck, Pad) rather than pure chaos.
+- **Offline Preset Browser:** Complete management of all 512 Factory and User patches directly from the plugin interface. Instantly browse, load, and recall patches without menu-diving.
 - **DAW Passthrough Mode:** Built specifically for older Windows 10 machines with single-client MIDI constraints. The plugin intelligently intercepts the DAW's generic track MIDI, processes it, and injects outgoing automated parameters back into the DAW pipeline to bypass exclusive OS port locking.
 - **Undocumented Parameters:** Full access to the Firmware v1.10 `PWM LFO RATE` and `PWM LFO DEPTH` parameters which lack CC numbers and are otherwise buried in the hardware's Setup menu.
 
